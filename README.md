@@ -1,40 +1,63 @@
-项目说明
-------
+Project Description
+-------
+* Theme：The news system based on the SSH framework. The front page uses the BootStrap framework and uses Ajax to refresh the news content locally. The backstage page uses the Pintuer framework and uses the MySQL database.
+* Front desk function：Login system and registered account, read big picture headline news, read classified news, read news details, comment news content.
+* Background functions: login administrator role, modify password, webmaster statistical information, set website footer, publish news, set up headline news, manage news and management reviews.
+* Support：If you have a problem or find an application error, you can submit a question here or contact me by mail. If you think this application is good, I hope you will give a "Star" to the project.
+* 请联系我：需要本项目的答辩PPT、文档（非PDF）、数据库文件、用例图、新闻模拟内容请发邮件联系我！
 
-* 基本描述：基于 SSH 框架的新闻系统，前端页面使用 BootStrap 框架布局美化 + Ajax 局部刷新新闻。后台页面使用 Pintuer 框架美化。数据库使用 MySQL。
-* 前端功能：登录与注册、浏览头条图片新闻、查看分类新闻、查看新闻详情、评论新闻。
-* 后台功能：管理员登录、修改密码、站长统计、网站页脚设置、发布新闻、设置头条新闻、管理已发新闻、评论管理。
-* 请支持我：如果觉得还不错，您的 Star 是对我开源代码最大的支持 O(∩_∩)O...
-
-* 请联系我：需要本项目的答辩PPT、文档、数据库文件、用例图请发邮件联系我！
-
-
-联系方式
-------
-* 作者：郭峰
-* 邮箱: iamguofeng@163.com 
+Contact Information
+-------
+* Author: 郭峰
+* Email: iamguofeng@163.com 
 * CSDN: http://blog.csdn.net/plain_maple
 
+Application Screenshot
+-------
+| Today's headline               | 
+|:------------------------------:|
+|![](预览截图/1.png)              | 
 
-前端页面截图
------- 
-今日头条
-<img src="https://github.com/iamguofeng/NewsCMS/raw/master/预览截图/1.png"  />
-新闻热评榜
-<img src="https://github.com/iamguofeng/NewsCMS/raw/master/预览截图/2.png"  />
-分类新闻
-<img src="https://github.com/iamguofeng/NewsCMS/raw/master/预览截图/3.png"  />
-页脚信息
-<img src="https://github.com/iamguofeng/NewsCMS/raw/master/预览截图/4.png"  />
-新闻详情
-<img src="https://github.com/iamguofeng/NewsCMS/raw/master/预览截图/5.png"  />
-评论区域
-<img src="https://github.com/iamguofeng/NewsCMS/raw/master/预览截图/6.png"  />
+| Lively news list               | 
+|:------------------------------:|
+|![](预览截图/2.png)              | 
 
-后台页面截图（非完全）
------- 
-站长统计
-<img src="https://github.com/iamguofeng/NewsCMS/raw/master/预览截图/7.png"  />
-新闻管理
-<img src="https://github.com/iamguofeng/NewsCMS/raw/master/预览截图/8.png"  />
+| Classified news                | 
+|:------------------------------:|
+|![](预览截图/3.png)              | 
+
+| Footer information             | 
+|:------------------------------:|
+|![](预览截图/4.png)              | 
+
+| News detail                    | 
+|:------------------------------:|
+|![](预览截图/5.png)              | 
+
+| Review area                    | 
+|:------------------------------:|
+|![](预览截图/6.png)              | 
+
+| Stationmaster statistics       | 
+|:------------------------------:|
+|![](预览截图/7.png)              | 
+
+| News management                | 
+|:------------------------------:|
+|![](预览截图/8.png)              | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
